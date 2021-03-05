@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-s71eo/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://.github.io/csb-s71eo/static/js/main.c2c1dff9.chunk.js",
+    "main.js.map": "https://.github.io/csb-s71eo/static/js/main.c2c1dff9.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-s71eo/static/js/runtime-main.f310b6f5.js",
+    "runtime-main.js.map": "https://.github.io/csb-s71eo/static/js/runtime-main.f310b6f5.js.map",
+    "static/js/2.a6ee0518.chunk.js": "https://.github.io/csb-s71eo/static/js/2.a6ee0518.chunk.js",
+    "static/js/2.a6ee0518.chunk.js.map": "https://.github.io/csb-s71eo/static/js/2.a6ee0518.chunk.js.map",
+    "index.html": "https://.github.io/csb-s71eo/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://.github.io/csb-s71eo/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a6ee0518.chunk.js.LICENSE.txt": "https://.github.io/csb-s71eo/static/js/2.a6ee0518.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f310b6f5.js",
+    "static/js/2.a6ee0518.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c2c1dff9.chunk.js"
+  ]
+}
